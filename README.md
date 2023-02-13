@@ -3,7 +3,7 @@ Everything about apps
 
 I have realized two projects: 
 
-- An iOS app to collect various objects (cards, toys...) and make audio recordings for iPhone and iPad
+- An iOS app to collect various objects (cards, toys...) and make audio recordings, named "Favorite Collections" for iPhone and iPad
 
 - An iOS app to collect coins, named "My personal coin collection" for iPhone
 
