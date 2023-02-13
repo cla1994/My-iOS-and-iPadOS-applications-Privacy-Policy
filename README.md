@@ -1,8 +1,12 @@
 # application
 Everything about apps
 
-This project is about an iOS app to collect coins, named "My personal coin collection"
+I have realized two projects: 
 
-Everyone can use this site to contact me with problems and questions regarding the app.
+- An iOS app to collect various objects (cards, toys...) and make audio recordings for iPhone and iPad
+
+- An iOS app to collect coins, named "My personal coin collection" for iPhone
+
+Everyone can use this site to contact me with problems and questions regarding the apps.
 
 Email to contact me: claudiomenichini94@gmail.com
