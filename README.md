@@ -22,7 +22,7 @@ Everyone can use this site to contact me for any problems and questions regardin
 
 Or you can use my mail: claudiomenichini94@gmail.com
 
-Links:
+Links to the App Store:
 
 https://apps.apple.com/qa/app/favorite-collections/id1671512128
 
