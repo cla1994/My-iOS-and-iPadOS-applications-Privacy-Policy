@@ -24,6 +24,6 @@ Or you can use my mail: claudiomenichini94@gmail.com
 
 Links to the App Store:
 
-https://apps.apple.com/qa/app/favorite-collections/id1671512128
+Favorite Collections: https://apps.apple.com/qa/app/favorite-collections/id1671512128
 
-https://apps.apple.com/it/app/my-personal-coin-collection/id6443976119
+My personal coin collection: https://apps.apple.com/it/app/my-personal-coin-collection/id6443976119
