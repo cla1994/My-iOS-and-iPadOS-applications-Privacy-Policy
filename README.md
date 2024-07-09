@@ -21,3 +21,9 @@ I have realized two projects for iPhone and iPad, that allow for creation, delet
 Everyone can use this site to contact me for any problems and questions regarding the apps.
 
 Or you can use my mail: claudiomenichini94@gmail.com
+
+Links:
+
+https://apps.apple.com/qa/app/favorite-collections/id1671512128
+
+https://apps.apple.com/it/app/my-personal-coin-collection/id6443976119
