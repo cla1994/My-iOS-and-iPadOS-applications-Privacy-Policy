@@ -1,6 +1,6 @@
 # My Personal Coin Collection & My Favorite Collections
 
-I have realized two projects for iPhone and iPad, that allow for creation, deletion, customization, and research of your items : 
+I have realized two projects, made from scratch, for iPhone and iPad, that allow for creation, deletion, customization, and research of your items : 
 
 - An iOS app to collect various objects (cards, toys...) and make audio recordings, named "Favorite Collections" for iPhone and iPad
 
